@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CrZ-rz-aQ2"; */
+"CrZ-rz-aQ2.normalTitle" = "Украинский";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KH9-J5-yg9"; */
+"KH9-J5-yg9.normalTitle" = "Английский";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xir-Y5-gPQ"; */
+"xir-Y5-gPQ.normalTitle" = "Русский";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zUs-pb-JrT"; */
+"zUs-pb-JrT.text" = "russian storyboard label";

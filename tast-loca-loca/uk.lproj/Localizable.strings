@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  tast-loca-loca
+
+  Created by Dmitry on 7/9/18.
+  Copyright © 2018 Dmitry. All rights reserved.
+*/
+
+/* test */
+"en" = "укр из кода";
